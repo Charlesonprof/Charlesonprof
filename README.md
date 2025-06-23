@@ -1,7 +1,7 @@
 ## Olá meu nome Charleson's here 👋
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" heigth="30" width="30" />
-<img src="" heigth="30" width="30" />         
+       
 <!--
 **Charlesonprof/Charlesonprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
