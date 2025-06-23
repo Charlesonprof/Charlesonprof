@@ -1,4 +1,4 @@
-## Olá meu nome Charleson's here 👋
+## Olá Charleson's here 👋
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" heigth="30" width="30" />
        
